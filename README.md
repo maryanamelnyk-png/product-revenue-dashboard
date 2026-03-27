@@ -21,7 +21,10 @@ This project focuses on analyzing company revenue to understand trends, key driv
 ### Recommendations
 - Investigate reasons for the post-peak drop  
 - Scale successful strategies from USA  
-- Analyze pricing and user behavior changes  
+- Analyze pricing and user behavior changes
+
+### Data
+Dataset is available here: https://drive.google.com/file/d/1_SzRROlaaSBTamkrOtgVUlR1kqPXthkg/view
 
 ### Dashboard
 https://public.tableau.com/app/profile/mariana.melnyk/viz/RevenueAnalysisDashboard_17690919681440/Dashboard
